@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/jramosff.lwc-l88hwa2r",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve GpyfLA8gLZQ66MvXsiaJ --open"
+  }
+}
